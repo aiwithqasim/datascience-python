@@ -1,4 +1,4 @@
-<img src="https://github.com/qasim1020/100DaysOfCode/blob/main/100daysofcode_banner.png" alt="Girl in a jacket" width="1000" height="500">
+# \#100DaysofCode
 <p>Here is a quote which motivates me to start #100daysofcode:</p>
 <blockquote cite="http://www.worldwildlife.org/who/index.html">
 “Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.” —Pauline Kael
