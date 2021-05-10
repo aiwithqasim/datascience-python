@@ -1,4 +1,4 @@
-<img src= "https://github.com/qasim1020/100DaysOfCode/blob/main/images/banner.png" width=600 height=300>
+<img src= "https://github.com/qasim1020/100DaysOfCode/blob/main/images/banner.png" width=1200 height=450>
 
 ## Module1: Python Programming (Version = 3.9)
 <li><a href="https://github.com/qasim1020/100DaysOfCode/blob/main/Day1%20python_introduction/Day1%20Python%20Introduction.ipynb">Python Introduction</a></li>
