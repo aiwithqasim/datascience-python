@@ -26,6 +26,7 @@ I don't wanna tell you here what is Data Science? Just telling you one Motivatio
  <li><a href= "https://qasim1020.medium.com/data-scientist-the-sexiest-job-of-the-21st-century-9b81b680d54a">Data Scientist: The Sexiest Job of the 21st Century</a></li>
  <li><a href= "https://qasim1020.medium.com/data-science-process-386cca0e70e">Data Science Process</a></li>  
  </ol>
+ 
 <h3> Introduction to Data Science </h3>
 In the scetion I'll took <em>Pyhton</em>, <em>Numpy</em>, <em>matplotlib</em> as a whole to set the base for Data Science futher I'll dig deep step by step. This section include:
  <ol>
@@ -39,3 +40,33 @@ In the scetion I'll took <em>Pyhton</em>, <em>Numpy</em>, <em>matplotlib</em> as
  <li><a href= "https://github.com/qasim1020/100DaysOfCode/blob/main/Introduction%20to%20Data%20Science/Part-2/class4_loops.ipynb">Loops</a></li>
  <li><a href= "https://github.com/qasim1020/100DaysOfCode/blob/main/Introduction%20to%20Data%20Science/Part-2/class5_Case%20Study%20(Hacker%20Statistics).ipynb">Case Study</a></li>
  </ol>
+ 
+   <h4>PROJECTS</h4>
+ <ul>
+      <li><a href=""><strong>Investigating Netflix Movies and Guest Stars in The Office</sttrong></a></li>
+      <li><a href=""><strong>Titanic Data Analysis</sttrong></a></li>
+  </ul>
+ 
+ <h3>Pandas 🐼</h3>
+ <h4>Data Manipulation with Pandas</h4>
+ <ol>
+     <li><a href="https://github.com/qasim1020/100DaysOfCode/blob/main/pandas/01%20pandas%20intro/pandas_class1.ipynb">Transforming Data</a></li>
+     <li><a href="https://github.com/qasim1020/100DaysOfCode/blob/main/pandas/01%20pandas%20intro/Pandas_class2.ipynb">Aggregating Data</a></li>
+     <li><a href="https://github.com/qasim1020/100DaysOfCode/blob/main/pandas/01%20pandas%20intro/pandas_class3.ipynb">Slicing & Indexing</a></li>
+     <li><a href="https://github.com/qasim1020/100DaysOfCode/blob/main/pandas/01%20pandas%20intro/pandas_class4.ipynb">Craeting & visualizing Data Frame</a></li>
+ </ol> 
+ <h4>Joining Data with Pandas</h4>
+ <ol>
+      <li><a href="https://github.com/qasim1020/100DaysOfCode/blob/main/pandas/02%20joining%20data%20with%20pandas/join_pandas_class1.ipynb">Data Merging Basics</a></li>
+      <li><a href="https://github.com/qasim1020/100DaysOfCode/blob/main/pandas/02%20joining%20data%20with%20pandas/join_pandas_class2.ipynb">Merging Tables with different Join types</a></li>
+      <li><a href="https://github.com/qasim1020/100DaysOfCode/blob/main/pandas/02%20joining%20data%20with%20pandas/join_pandas_class3.ipynb">Advance merginng & concatination</a></li>
+      <li><a href="https://github.com/qasim1020/100DaysOfCode/blob/main/pandas/02%20joining%20data%20with%20pandas/join_pandas_class4.ipynb">Merging Ordered & Time-Series data</a></li>
+  </ol>
+  
+  <h4>PROJECTS</h4>
+ <ul>
+      <li><a href="https://github.com/qasim1020/100DaysOfCode/tree/main/pandas/projects/Analyzing%20TV%20Data"><strong>Analyzing TV Data</strong></a></li>
+      <li><a href="https://github.com/qasim1020/100DaysOfCode/tree/main/pandas/projects/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market"><strong>Exploring the Bitcoin Cryptocurrency Market</strong></a></li>
+      <li><a href="https://github.com/qasim1020/100DaysOfCode/tree/main/pandas/projects/Pakistan%20Temperature%20Analysis"><strong>Pakistan Temperature Analysis</strong></a></li>
+      <li><a href="https://github.com/qasim1020/text_analysis"><strong>Data Extraction & Text Analysis</sttrong></a></li>
+  </ul>
