@@ -70,3 +70,11 @@ In the scetion I'll took <em>Pyhton</em>, <em>Numpy</em>, <em>matplotlib</em> as
       <li><a href="https://github.com/qasim1020/100DaysOfCode/tree/main/pandas/projects/Pakistan%20Temperature%20Analysis"><strong>Pakistan Temperature Analysis</strong></a></li>
       <li><a href="https://github.com/qasim1020/text_analysis"><strong>Data Extraction & Text Analysis</sttrong></a></li>
   </ul>
+ 
+ <h4>Introduction to Data Visualization with matplotlib</h4>
+ <ol>
+     <li><a href="https://github.com/qasim1020/Data-Science-Porfolio/blob/main/Introduction%20to%20Data%20Visualization%20with%20Matplotlib/class1_intro%20matplotlib.ipynb">Introduction to matplotlib</a></li>
+     <li><a href="https://github.com/qasim1020/Data-Science-Porfolio/blob/main/Introduction%20to%20Data%20Visualization%20with%20Matplotlib/calss2_plotting%20time%20series.ipynb">Ploting time-Series data</a></li>
+     <li><a href="">Quantitative comparisons and statistical visualizations</a></li>
+     <li><a href="">Sharing visualizations with others</a></li>
+ </ol> 
