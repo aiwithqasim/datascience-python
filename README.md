@@ -1,4 +1,4 @@
-<img src= "https://github.com/qasim1020/100DaysOfCode/blob/main/images/banner.png" width=1200 height=450>
+<img src= "https://github.com/qasim1020/Data-Science-Porfolio/blob/main/images/portfolio.png" width=800 height=400 align="center">
 
 ## Module-1: Python Programming (Version = 3.9)
 In this module I'll be focusing on Python Programming only to set the base with <em>Python as a programming Language</em> .
