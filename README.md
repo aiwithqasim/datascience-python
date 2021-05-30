@@ -77,3 +77,6 @@ In the scetion I'll took <em>Pyhton</em>, <em>Numpy</em>, <em>matplotlib</em> as
      <li><a href="">Quantitative comparisons and statistical visualizations</a></li>
      <li><a href="">Sharing visualizations with others</a></li>
  </ol> 
+ <!--
+ ## Module-4: <strong>Web Visualization</strong> 
+ -->
