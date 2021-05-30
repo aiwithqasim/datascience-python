@@ -1,4 +1,4 @@
-<img src= "https://github.com/qasim1020/100DaysOfCode/blob/main/images/banner.png" width=1200 height=450>
+<img src= "https://github.com/qasim1020/Data-Science-Porfolio/blob/main/images/portfolio.png" width=800 height=400 align="center">
 
 ## Module-1: Python Programming (Version = 3.9)
 In this module I'll be focusing on Python Programming only to set the base with <em>Python as a programming Language</em> .
@@ -27,7 +27,7 @@ I don't wanna tell you here what is Data Science? Just telling you one Motivatio
  <li><a href= "https://qasim1020.medium.com/data-science-process-386cca0e70e">Data Science Process</a></li>  
  </ol>
  
-<h3> Introduction to Data Science </h3>
+<h4> Introduction to Data Science </h4>
 In the scetion I'll took <em>Pyhton</em>, <em>Numpy</em>, <em>matplotlib</em> as a whole to set the base for Data Science futher I'll dig deep step by step. This section include:
  <ol>
  <li><a href= "https://github.com/qasim1020/100DaysOfCode/blob/main/Introduction%20to%20Data%20Science/Part-1/class1_python%20Basis.ipynb">Python Basis</a></li>
@@ -41,13 +41,12 @@ In the scetion I'll took <em>Pyhton</em>, <em>Numpy</em>, <em>matplotlib</em> as
  <li><a href= "https://github.com/qasim1020/100DaysOfCode/blob/main/Introduction%20to%20Data%20Science/Part-2/class5_Case%20Study%20(Hacker%20Statistics).ipynb">Case Study</a></li>
  </ol>
  
-   <h4>PROJECTS</h4>
+   <h4>⚡️ PROJECTS</h4>
  <ul>
       <li><a href=""><strong>Investigating Netflix Movies and Guest Stars in The Office</strong></a></li>
       <li><a href=""><strong>Titanic Data Analysis</strong></a></li>
   </ul>
- 
- <h3>Pandas 🐼</h3>
+  
  <h4>Data Manipulation with Pandas</h4>
  <ol>
      <li><a href="https://github.com/qasim1020/100DaysOfCode/blob/main/pandas/01%20pandas%20intro/pandas_class1.ipynb">Transforming Data</a></li>
@@ -63,10 +62,21 @@ In the scetion I'll took <em>Pyhton</em>, <em>Numpy</em>, <em>matplotlib</em> as
       <li><a href="https://github.com/qasim1020/100DaysOfCode/blob/main/pandas/02%20joining%20data%20with%20pandas/join_pandas_class4.ipynb">Merging Ordered & Time-Series data</a></li>
   </ol>
   
-  <h4>PROJECTS</h4>
+  <h4>⚡️ PROJECTS</h4>
  <ul>
       <li><a href="https://github.com/qasim1020/100DaysOfCode/tree/main/pandas/projects/Analyzing%20TV%20Data"><strong>Analyzing TV Data</strong></a></li>
       <li><a href="https://github.com/qasim1020/100DaysOfCode/tree/main/pandas/projects/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market"><strong>Exploring the Bitcoin Cryptocurrency Market</strong></a></li>
       <li><a href="https://github.com/qasim1020/100DaysOfCode/tree/main/pandas/projects/Pakistan%20Temperature%20Analysis"><strong>Pakistan Temperature Analysis</strong></a></li>
-      <li><a href="https://github.com/qasim1020/text_analysis"><strong>Data Extraction & Text Analysis</sttrong></a></li>
+      <li><a href="https://github.com/qasim1020/text_analysis"><strong>Data Extraction & Text Analysis</strong></a></li>
   </ul>
+ 
+ <h4>Introduction to Data Visualization with matplotlib</h4>
+ <ol>
+     <li><a href="https://github.com/qasim1020/Data-Science-Porfolio/blob/main/Introduction%20to%20Data%20Visualization%20with%20Matplotlib/class1_intro%20matplotlib.ipynb">Introduction to matplotlib</a></li>
+     <li><a href="https://github.com/qasim1020/Data-Science-Porfolio/blob/main/Introduction%20to%20Data%20Visualization%20with%20Matplotlib/calss2_plotting%20time%20series.ipynb">Ploting time-Series data</a></li>
+     <li><a href="">Quantitative comparisons and statistical visualizations</a></li>
+     <li><a href="">Sharing visualizations with others</a></li>
+ </ol> 
+ <!--
+ ## Module-4: <strong>Web Visualization</strong> 
+ -->
