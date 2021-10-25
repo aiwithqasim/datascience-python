@@ -3,13 +3,13 @@
 ## Module-1: Python Programming (Version = 3.9)
 In this module I'll be focusing on Python Programming only to set the base with <em>Python as a programming Language</em> .
 <ol>
-<li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/Day1%20python_introduction/Day1%20Python%20Introduction.ipynb">Python Introduction</a></li>
-<li><a href = "https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/Day2%20operators/Day2%20python_operators.ipynb">Operators</a></li>
-<li><a href = "https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/Day3%20control_flow%20%26%20loops/control_flow%20%26%20loops.ipynb">ControlFlow & Loop</a></li>
-<li><a href = "https://github.com/qasim1020/DataScientist_PortfolioProjects/tree/main/Day4%20list%20%26%20tuples">List & Tuples</a></li>
-<li><a href = "https://github.com/qasim1020/DataScientist_PortfolioProjects/tree/main/Day5%20dictionaries">Dictionaries</a></li>
-<li><a href = "https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/Day6%20functions/functions.ipynb">Functions</a></li>
-<li><a href = "https://github.com/qasim1020/DataScientist_PortfolioProjects/tree/main/Day7%20OOP">Object Oriented Programing</a>
+<li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/tree/main/01%20Introduction%20to%20python/Day1%20python_introduction">Python Introduction</a></li>
+<li><a href = "https://github.com/qasim1020/DataScientist_PortfolioProjects/tree/main/01%20Introduction%20to%20python/Day2%20operators">Operators</a></li>
+<li><a href = "https://github.com/qasim1020/DataScientist_PortfolioProjects/tree/main/01%20Introduction%20to%20python/Day3%20control_flow%20%26%20loops">ControlFlow & Loop</a></li>
+<li><a href = "https://github.com/qasim1020/DataScientist_PortfolioProjects/tree/main/01%20Introduction%20to%20python/Day4%20list%20%26%20tuples">List & Tuples</a></li>
+<li><a href = "https://github.com/qasim1020/DataScientist_PortfolioProjects/tree/main/01%20Introduction%20to%20python/Day5%20dictionaries">Dictionaries</a></li>
+<li><a href = "https://github.com/qasim1020/DataScientist_PortfolioProjects/tree/main/01%20Introduction%20to%20python/Day6%20functions">Functions</a></li>
+<li><a href = "https://github.com/qasim1020/DataScientist_PortfolioProjects/tree/main/01%20Introduction%20to%20python/Day7%20OOP">Object Oriented Programing</a>
      <ul>
         <li>Abstraction</li>
         <li>Encapsulation</li>
