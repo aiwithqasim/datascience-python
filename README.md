@@ -30,52 +30,52 @@ I don't wanna tell you here what is Data Science? Just telling you one Motivatio
 <h4> Introduction to Data Science </h4>
 In the scetion I'll took <em>Pyhton</em>, <em>Numpy</em>, <em>matplotlib</em> as a whole to set the base for Data Science futher I'll dig deep step by step. This section include:
  <ol>
- <li><a href= "">Python Basis</a></li>
- <li><a href= "">Lists</a></li> 
- <li><a href= "">Functions</a></li>  
- <li><a href= "">Numpy</a></li> 
- <li><a href= "">Matplotlib</a></li>
- <li><a href= "">Dictionaries & Pandas</a></li>
- <li><a href= "">Logic & Control Flow</a></li>
- <li><a href= "">Loops</a></li>
- <li><a href= "">Case Study</a></li>
+ <li><a href= "https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/02%20Introduction%20to%20Data%20Science/Part-1/class1_python%20Basis.ipynb">Python Basis</a></li>
+ <li><a href= "https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/02%20Introduction%20to%20Data%20Science/Part-1/class2_python%20list.ipynb">Lists</a></li> 
+ <li><a href= "https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/02%20Introduction%20to%20Data%20Science/Part-1/class3_funtions.ipynb">Functions</a></li>  
+ <li><a href= "https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/02%20Introduction%20to%20Data%20Science/Part-1/class4_Numpy.ipynb">Numpy</a></li> 
+ <li><a href= "https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/02%20Introduction%20to%20Data%20Science/Part-2/class1_matplotlib.ipynb">Matplotlib</a></li>
+ <li><a href= "https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/02%20Introduction%20to%20Data%20Science/Part-2/class2_dictionaries%20%26%20pandas.ipynb">Dictionaries & Pandas</a></li>
+ <li><a href= "https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/02%20Introduction%20to%20Data%20Science/Part-2/class3_logic%2C%20control-flow%20and%20filtering.ipynb">Logic & Control Flow</a></li>
+ <li><a href= "https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/02%20Introduction%20to%20Data%20Science/Part-2/class4_loops.ipynb">Loops</a></li>
+ <li><a href= "https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/02%20Introduction%20to%20Data%20Science/Part-2/class5_Case%20Study%20(Hacker%20Statistics).ipynb">Case Study</a></li>
  </ol>
  
    <h4>⚡️ PROJECTS</h4>
  <ul>
       <li><a href=""><strong>Investigating Netflix Movies and Guest Stars in The Office</strong></a></li>
-      <li><a href=""><strong>Titanic Data Analysis</strong></a></li>
+      <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/02%20Introduction%20to%20Data%20Science/Projects/Titanic/titanic%20dataset.ipynb"><strong>Titanic Data Analysis</strong></a></li>
   </ul>
   
  <h4>Data Manipulation with Pandas</h4>
  <ol>
-     <li><a href="">Transforming Data</a></li>
-     <li><a href="">Aggregating Data</a></li>
-     <li><a href="">Slicing & Indexing</a></li>
-     <li><a href="">Craeting & visualizing Data Frame</a></li>
+     <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/03%20Data%20Manipulation%20with%20pandas/01%20pandas%20intro/pandas_class1.ipynb">Transforming Data</a></li>
+     <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/03%20Data%20Manipulation%20with%20pandas/01%20pandas%20intro/Pandas_class2.ipynb">Aggregating Data</a></li>
+     <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/03%20Data%20Manipulation%20with%20pandas/01%20pandas%20intro/pandas_class3.ipynb">Slicing & Indexing</a></li>
+     <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/03%20Data%20Manipulation%20with%20pandas/01%20pandas%20intro/pandas_class4.ipynb">Craeting & visualizing Data Frame</a></li>
  </ol> 
  <h4>Joining Data with Pandas</h4>
  <ol>
-      <li><a href="">Data Merging Basics</a></li>
-      <li><a href="">Merging Tables with different Join types</a></li>
-      <li><a href="">Advance merginng & concatination</a></li>
-      <li><a href="">Merging Ordered & Time-Series data</a></li>
+      <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/03%20Data%20Manipulation%20with%20pandas/02%20joining%20data%20with%20pandas/join_pandas_class1.ipynb">Data Merging Basics</a></li>
+      <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/03%20Data%20Manipulation%20with%20pandas/02%20joining%20data%20with%20pandas/join_pandas_class2.ipynb">Merging Tables with different Join types</a></li>
+      <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/03%20Data%20Manipulation%20with%20pandas/02%20joining%20data%20with%20pandas/join_pandas_class3.ipynb">Advance merginng & concatination</a></li>
+      <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/03%20Data%20Manipulation%20with%20pandas/02%20joining%20data%20with%20pandas/join_pandas_class4.ipynb">Merging Ordered & Time-Series data</a></li>
   </ol>
   
   <h4>⚡️ PROJECTS</h4>
  <ul>
-      <li><a href=""><strong>Analyzing TV Data</strong></a></li>
-      <li><a href=""><strong>Exploring the Bitcoin Cryptocurrency Market</strong></a></li>
-      <li><a href=""><strong>Pakistan Temperature Analysis</strong></a></li>
+      <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/tree/main/03%20Data%20Manipulation%20with%20pandas/projects/Analyzing%20TV%20Data"><strong>Analyzing TV Data</strong></a></li>
+      <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/tree/main/03%20Data%20Manipulation%20with%20pandas/projects/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market"><strong>Exploring the Bitcoin Cryptocurrency Market</strong></a></li>
+      <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/tree/main/03%20Data%20Manipulation%20with%20pandas/projects/Pakistan%20Temperature%20Analysis"><strong>Pakistan Temperature Analysis</strong></a></li>
       <li><a href="https://github.com/qasim1020/text_analysis"><strong>Data Extraction & Text Analysis</strong></a></li>
   </ul>
  
  <h4>Introduction to Data Visualization with matplotlib</h4>
  <ol>
-     <li><a href="">Introduction to matplotlib</a></li>
-     <li><a href="">Ploting time-Series data</a></li>
-     <li><a href="">Quantitative comparisons and statistical visualizations</a></li>
-     <li><a href="">Sharing visualizations with others</a></li>
+     <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/04%20Introduction%20to%20Data%20Visualization%20with%20Matplotlib/calss2_plotting%20time%20series.ipynb">Introduction to matplotlib</a></li>
+     <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/04%20Introduction%20to%20Data%20Visualization%20with%20Matplotlib/calss2_plotting%20time%20series.ipynb">Ploting time-Series data</a></li>
+     <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/04%20Introduction%20to%20Data%20Visualization%20with%20Matplotlib/class3_quantitative%20comparisons.ipynb">Quantitative comparisons and statistical visualizations</a></li>
+     <li><a href="https://github.com/qasim1020/DataScientist_PortfolioProjects/blob/main/04%20Introduction%20to%20Data%20Visualization%20with%20Matplotlib/class4_prepare%20for%20share.ipynb">Sharing visualizations with others</a></li>
  </ol> 
  <!--
  ## Module-4: <strong>Web Visualization</strong> 
