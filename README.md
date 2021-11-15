@@ -12,6 +12,7 @@ In this week I'll took <em>Pyhton</em>, <em>Numpy</em>, <em>matplotlib</em> as a
 
  </ol>
  
+ <!--
    <h4>⚡️ PROJECTS</h4>
  <ul>
       <li><a href=""><strong>Investigating Netflix Movies and Guest Stars in The Office</strong></a></li>
