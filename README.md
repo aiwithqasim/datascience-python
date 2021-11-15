@@ -1,4 +1,4 @@
-
+# DATA SCIENTIST WITH PYTHON
 I don't wanna tell you here what is Data Science? Just telling you one Motivational point that according to <em>statista</em> Data Science is an sexiest job of 2021 and In 4th industrial revolution is maximum work is on Artificial intelligence, DeepLearning, Machine Learning and thses kind of buzz words.If you still want to know more you can read My these articles given below:
  <ol>
  <li><a href= "https://qasim1020.medium.com/data-scientist-the-sexiest-job-of-the-21st-century-9b81b680d54a">Data Scientist: The Sexiest Job of the 21st Century</a></li>
