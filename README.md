@@ -7,12 +7,12 @@ I don't wanna tell you here what is Data Science? Just telling you one Motivatio
  
 ## Class 01 Introduction to python
 Python is a general-purpose programming language that is becoming ever more popular for data science. Companies worldwide are using Python to harvest insights from their data and gain a competitive edge. Unlike other Python tutorials, this Notebook focuses on Python specifically for data science. In our Introduction to Python course, you’ll learn about powerful ways to store and manipulate data, and helpful data science tools to begin conducting your own analyses.
-- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2001%20Introduction%20to%20Python/class01%20Introduction%20to%20DS%20with%20Python.ipynb">Notebook: <em></em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2001%20Introduction%20to%20Python/class01%20Introduction%20to%20DS%20with%20Python.ipynb">Notebook: <em>Introduction to python</em></a>
 
 ## Class 02 Intermediate Python
 Learning Python is crucial for any aspiring data science practitioner. Learn to visualize real data with Matplotlib's functions and get acquainted with data structures such as the dictionary and the pandas DataFrame. After covering key concepts such as boolean logic, control flow, and loops in Python, you'll be ready to blend together everything you've learned to solve a case study using hacker statistics.
-- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2002%20Intermediate%20Python/class%2002%20Intermediate%20Python.ipynb">Notebook: <em></em></a>
-- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2002%20Intermediate%20Python/Case%20Study%20(Hacker%20Statistics).ipynb">Notebook: <em>Intermediate Python</em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2002%20Intermediate%20Python/class%2002%20Intermediate%20Python.ipynb">Notebook: <em>Intermediate Python</em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2002%20Intermediate%20Python/Case%20Study%20(Hacker%20Statistics).ipynb">Notebook: <em>Casestudy: Hacker tatistics</em></a>
 
 ## class 03 Data manipulation with Pandas
 pandas is the world's most popular Python library, used for everything from data manipulation to data analysis. In this Notebook, you'll learn how to manipulate DataFrames, as you extract, filter, and transform real-world datasets for analysis. Using pandas you’ll explore all the core data science concepts. Using real-world data, including Walmart sales figures and global temperature time series, you’ll learn how to import, clean, calculate statistics, and create visualizations—using pandas to add to the power of Python!
@@ -26,5 +26,5 @@ Being able to combine and work with multiple datasets is an essential skill for 
 - <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2004%20Joining%20Data%20with%20Pandas/join_pandas_class4.ipynb">Notebook: <em>Merging Ordered and Time-Series Data</em></a>
 
 <!--
-
+- <a href= "">Notebook: <em></em></a>
 -->
