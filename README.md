@@ -12,7 +12,7 @@ Python is a general-purpose programming language that is becoming ever more popu
 ## Class 02 Intermediate Python
 Learning Python is crucial for any aspiring data science practitioner. Learn to visualize real data with Matplotlib's functions and get acquainted with data structures such as the dictionary and the pandas DataFrame. After covering key concepts such as boolean logic, control flow, and loops in Python, you'll be ready to blend together everything you've learned to solve a case study using hacker statistics.
 - <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2002%20Intermediate%20Python/class%2002%20Intermediate%20Python.ipynb">Notebook: <em>Intermediate Python</em></a>
-- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2002%20Intermediate%20Python/Case%20Study%20(Hacker%20Statistics).ipynb">Notebook: <em>Casestudy: Hacker tatistics</em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2002%20Intermediate%20Python/Case%20Study%20(Hacker%20Statistics).ipynb">Casestudy: <em>Hacker tatistics</em></a>
 
 ## class 03 Data manipulation with Pandas
 pandas is the world's most popular Python library, used for everything from data manipulation to data analysis. In this Notebook, you'll learn how to manipulate DataFrames, as you extract, filter, and transform real-world datasets for analysis. Using pandas you’ll explore all the core data science concepts. Using real-world data, including Walmart sales figures and global temperature time series, you’ll learn how to import, clean, calculate statistics, and create visualizations—using pandas to add to the power of Python!
