@@ -25,6 +25,14 @@ Being able to combine and work with multiple datasets is an essential skill for 
 - <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2004%20Joining%20Data%20with%20Pandas/join_pandas_class3.ipynb">Notebook: <em>Advanced Merging and Concatenating</em></a>
 - <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2004%20Joining%20Data%20with%20Pandas/join_pandas_class4.ipynb">Notebook: <em>Merging Ordered and Time-Series Data</em></a>
 
+## class 05 Introduction to matplotlib
+Visualizing data in plots and figures exposes the underlying patterns in the data and provides insights. Good visualizations also help you communicate your data to others, and are useful to data analysts and other consumers of the data. In this class , you will learn how to use Matplotlib, a powerful Python data visualization library. Matplotlib provides the building blocks to create rich visualizations of many different kinds of datasets. You will learn how to create visualizations for different kinds of data and how to customize, automate, and share these visualizations.
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2005%20Introduction%20to%20data%20visualization%20with%20matplotlib/class1_intro%20matplotlib.ipynb">Notebook: <em>Introduction to Matplotlib</em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2005%20Introduction%20to%20data%20visualization%20with%20matplotlib/class2_plotting%20time%20series.ipynb">Notebook: <em>Plotting time-series</em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2005%20Introduction%20to%20data%20visualization%20with%20matplotlib/class3_quantitative%20comparisons.ipynb">Notebook: <em>Quantitative comparisons and statistical visualizations</em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2005%20Introduction%20to%20data%20visualization%20with%20matplotlib/class4_prepare%20for%20share.ipynb">Notebook: <em>Sharing visualizations with others</em></a>
+
+
 <!--
 - <a href= "">Notebook: <em></em></a>
 -->
