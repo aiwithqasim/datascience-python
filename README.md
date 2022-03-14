@@ -32,6 +32,13 @@ Visualizing data in plots and figures exposes the underlying patterns in the dat
 - <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2005%20Introduction%20to%20data%20visualization%20with%20matplotlib/class3_quantitative%20comparisons.ipynb">Notebook: <em>Quantitative comparisons and statistical visualizations</em></a>
 - <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2005%20Introduction%20to%20data%20visualization%20with%20matplotlib/class4_prepare%20for%20share.ipynb">Notebook: <em>Sharing visualizations with others</em></a>
 
+## class 06 Introduction to seaborn
+Seaborn is a powerful Python library that makes it easy to create informative and attractive visualizations. These seabornn Notebooks provides an introduction to Seaborn and teaches you how to visualize your data using plots such as scatter plots, box plots, and bar plots. You’ll do this while exploring survey responses about student hobbies and the factors that are associated with academic success. You’ll also learn about some of Seaborn’s advantages as a statistical visualization tool, such as how it automatically calculates confidence intervals. By the end of the notebooks, you will be able to use Seaborn in a variety of situations to explore your data and effectively communicate the results of your data analyses to others.
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2006%20Introduction%20to%20data%20visualization%20with%20seaborn/class1%20Introduction%20to%20seabron.ipynb">Notebook: <em>Introduction to Seaborn</em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2006%20Introduction%20to%20data%20visualization%20with%20seaborn/class2%20Visualizing%20Two%20Quantitative%20Variables.ipynb">Notebook: <em>Visualizing Two Quantitative Variables</em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2006%20Introduction%20to%20data%20visualization%20with%20seaborn/class3%20Visualizing%20a%20Categorical%20and%20a%20Quantitative%20Variable.ipynb">Notebook: <em>Visualizing a Categorical and a Quantitative Variable</em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2006%20Introduction%20to%20data%20visualization%20with%20seaborn/class4%20Customizing%20Seaborn%20Plots.ipynb">Notebook: <em>Customizing Seaborn Plots</em></a>
+
 
 <!--
 - <a href= "">Notebook: <em></em></a>
