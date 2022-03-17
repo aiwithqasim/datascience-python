@@ -39,6 +39,15 @@ Seaborn is a powerful Python library that makes it easy to create informative an
 - <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2006%20Introduction%20to%20data%20visualization%20with%20seaborn/class3%20Visualizing%20a%20Categorical%20and%20a%20Quantitative%20Variable.ipynb">Notebook: <em>Visualizing a Categorical and a Quantitative Variable</em></a>
 - <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2006%20Introduction%20to%20data%20visualization%20with%20seaborn/class4%20Customizing%20Seaborn%20Plots.ipynb">Notebook: <em>Customizing Seaborn Plots</em></a>
 
+## Python data Sciencce ToolBox
+It's time to push forward and develop your Python chops even further. There are tons of fantastic functions in Python and its library ecosystem. However, as a data scientist, you'll constantly need to write your own functions to solve problems that are dictated by your data. You will learn the art of function writing in this first Python Data Science Toolbox course. You'll come out of these Notebooks being able to write your very own custom functions, complete with multiple parameters and multiple return values, along with default arguments and variable-length arguments. You'll gain insight into scoping in Python and be able to write lambda functions and handle errors in your function writing practice. And you'll wrap up each chapter by using your new skills to write functions that analyze Twitter DataFrames.
+
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2007%20Python%20Data%20Science%20toolbox/class1%20user%20defined%20functions.ipynb">Notebook: <em>Functions, Lambda functions and error-handling</em></a>
+
+In this second Python Data Science Toolbox Notebook, you'll continue to build your Python data science skills. First, you'll learn about iterators, objects you have already encountered in the context of for loops. You'll then learn about list comprehensions, which are extremely handy tools for all data scientists working in Python. You'll end the Notebook by working through a case study in which you'll apply all the techniques you learned in both parts of this Notebook "Bringing it all together!"
+
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2007%20Python%20Data%20Science%20toolbox/class2%20Using%20iterators%20in%20PythonLand.ipynb">Notebook: <em>Using iterators in PythonLand, List comprehensions and generators.</em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2007%20Python%20Data%20Science%20toolbox/class03%20Bringing%20it%20all%20together!%20(Case%20Study).ipynb">Case Study:  <em>Bringing it all together! (World Bank's World Development Indicators dataset)</em></a>
 
 <!--
 - <a href= "">Notebook: <em></em></a>
