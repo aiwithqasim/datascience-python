@@ -49,6 +49,14 @@ In this second Python Data Science Toolbox Notebook, you'll continue to build yo
 - <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2007%20Python%20Data%20Science%20toolbox/class2%20Using%20iterators%20in%20PythonLand.ipynb">Notebook: <em>Using iterators in PythonLand, List comprehensions and generators.</em></a>
 - <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2007%20Python%20Data%20Science%20toolbox/class03%20Bringing%20it%20all%20together!%20(Case%20Study).ipynb">Case Study:  <em>Bringing it all together! (World Bank's World Development Indicators dataset)</em></a>
 
+## Intermediate Data Visualization with Seaborn
+Do you want to make beautiful, informative visualizations with ease? If so, then you must learn seaborn! Seaborn is a visualization library that is an essential part of the python data science toolkit. In below notebooks, you will learn how to use seaborn's sophisticated visualization tools to analyze multiple real world datasets including the American Housing Survey, college tuition data, and guests from the popular television series, The Daily Show. Following these notebooks, you will be able to use seaborn functions to visualize your data in several different formats and customize seaborn plots for your unique needs.
+
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2008%20Intermediate%20Data%20Visualization%20with%20Seaborn/class01%20%20Seaborn%20Introduction.ipynb">Notebook: <em>Seaborn Introduction</em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2008%20Intermediate%20Data%20Visualization%20with%20Seaborn/class02%20Customizing%20Seaborn%20Plots.ipynb">Notebook: <em>Customizing Seaborn Plots</em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2008%20Intermediate%20Data%20Visualization%20with%20Seaborn/class03%20%20Additional%20Plot%20Types.ipynb">Notebook: <em>Additional Plot Types</em></a>
+- <a href= "https://github.com/aiwithqasim/datascientist-python/blob/main/class%2008%20Intermediate%20Data%20Visualization%20with%20Seaborn/class04%20Creating%20Plots%20on%20Data%20Aware%20Grids.ipynb">Notebook: <em>Creating Plots on Data Aware Grids</em></a>
+
 <!--
 - <a href= "">Notebook: <em></em></a>
 -->
