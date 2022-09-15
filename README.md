@@ -4,6 +4,10 @@ I don't wanna tell you here what is Data Science? Just telling you one Motivatio
  <li><a href= "https://qasim1020.medium.com/data-scientist-the-sexiest-job-of-the-21st-century-9b81b680d54a">Data Scientist: The Sexiest Job of the 21st Century</a></li>
  <li><a href= "https://qasim1020.medium.com/data-science-process-386cca0e70e">Data Science Process</a></li>  
  </ol>
+
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*aaG4e8GQx93EgguyWq-D1w.png" alt=" welcome to DS family" width=400 hight= 200/>
+</p>
  
 ## Class 01 Introduction to python
 Python is a general-purpose programming language that is becoming ever more popular for data science. Companies worldwide are using Python to harvest insights from their data and gain a competitive edge. Unlike other Python tutorials, this Notebook focuses on Python specifically for data science. In our Introduction to Python course, you’ll learn about powerful ways to store and manipulate data, and helpful data science tools to begin conducting your own analyses.
